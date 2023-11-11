@@ -1,0 +1,19 @@
+项目变更
+延期申请
+院外单位短信提醒
+筛选精细化可移动到办结Wx_RsUth1-3
+评审
+材料批量导出
+
+
+管理人员可修改的配置
+审批流配置
+执行期
+
+改前
+{"currentDeputyAccountId":"1522201565361274882","deptName":"北京大学口腔医院","officeName":"口腔医学数字化研究中心","zipCode":"100081","education":"博士研究生","gender":"男","nation":"汉族","idCard":"510681198608275019","roles":"pi","tenureTrackFlag":false,"positionName":"副主任医师","idCardType":"身份证","major":"口腔医学","educationCountry":"中国","tel":"010-82196027","id":"1522201565302554625","email":"chenhu44@126.com","address":"北京市海淀区中关村南大街22号北京大学口腔医院","degree":"博士","dept":"12967","empNo":"E2022129678262","birthDate":"1986-08-27 00:00:00","phone":"13581785216","name":"陈虎","deptCode":"12967"}
+{"currentDeputyAccountId":"1522201565361274882","deptName":"北京大学口腔医院","officeName":"口腔医学数字化研究中心","zipCode":"100191","education":"博士研究生","positionTitle":"副主任医师","gender":"男","nation":"汉族","idCard":"510681198608275019","roles":"pi","tenureTrackFlag":false,"type":"1","positionName":"副主任医师","idCardType":"身份证","major":"口腔医学","projectLeaderId":"1522201565302554625","educationCountry":"中国","tel":"010-82196027","id":"1522201565302554625","state":"1","email":"chenhu44@126.com","address":"北京市海淀区中关村南大街22号北京大学口腔医院","isumpId":"1522201565302554625","degree":"博士","updateTime":"2023-08-29 16:55:53","dept":"12967","empNo":"E2022129678262","birthDate":"1986-08-27T00:00:00","personName":"陈虎","phone":"13581785216","createTime":"2022-05-05 21:08:28","name":"陈虎","personId":"1522201565302554625","category":"external","projectId":"1691340198442467330","deptCode":"12967","age":37}
+
+改后
+{"currentDeputyAccountId":"1522201565361274882","deptName":"北京大学","officeName":"口腔医学数字化研究中心","zipCode":"100081","education":"博士研究生","gender":"男","nation":"汉族","idCard":"510681198608275019","roles":"pi","tenureTrackFlag":false,"positionName":"副主任医师","idCardType":"身份证","major":"口腔医学","educationCountry":"中国","tel":"010-82196027","id":"1522201565302554625","email":"chenhu44@126.com","address":"北京市海淀区中关村南大街22号北京大学口腔医院","degree":"博士","dept":"5006","empNo":"E2022129678262","birthDate":"1986-08-27 00:00:00","phone":"13581785216","name":"陈虎","deptCode":"5006"}
+{"currentDeputyAccountId":"1522201565361274882","deptName":"北京大学","officeName":"口腔医学数字化研究中心","zipCode":"100191","education":"博士研究生","positionTitle":"副主任医师","gender":"男","nation":"汉族","idCard":"510681198608275019","roles":"pi","tenureTrackFlag":false,"type":"1","positionName":"副主任医师","idCardType":"身份证","major":"口腔医学","projectLeaderId":"1522201565302554625","educationCountry":"中国","tel":"010-82196027","id":"1522201565302554625","state":"1","email":"chenhu44@126.com","address":"北京市海淀区中关村南大街22号北京大学口腔医院","isumpId":"1522201565302554625","degree":"博士","updateTime":"2023-08-29 16:55:53","dept":"5006","empNo":"E2022129678262","birthDate":"1986-08-27T00:00:00","personName":"陈虎","phone":"13581785216","createTime":"2022-05-05 21:08:28","name":"陈虎","personId":"1522201565302554625","category":"external","projectId":"1691340198442467330","deptCode":"5006","age":37}
